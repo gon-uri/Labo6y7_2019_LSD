@@ -1,5 +1,5 @@
 # Labo 6 y 7 - Laboratorio de Sistemas Dinamicos
-Vamos mantener un repositorio con material que resulte de utilidad para la cursada de labo.
+Vamos mantener un repositorio con material que resulte de utilidad para la constricción del grabador portatil.
 
 ![Circuito](https://github.com/gon-uri/Labo6y7_2019_LSD/blob/master/Foto/circuit.jpg)
 
