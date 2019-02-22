@@ -1,4 +1,4 @@
-![Foto_Universidad_en_Lucha](https://github.com/gon-uri/Redes_2018/blob/master/Foto/circuit.jpg)
+![Circuito](https://github.com/gon-uri/Labo6y7_2019_LSD/blob/master/Foto/circuit.jpg)
 
 # Labo 6 y 7 - Laboratorio de Sistemas Dinamicos
 Vamos mantener un repositorio con material que resulte de utilidad para el avnace del la cursada de labo.
