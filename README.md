@@ -1,7 +1,7 @@
-![Circuito](https://github.com/gon-uri/Labo6y7_2019_LSD/blob/master/Foto/circuit.jpg)
-
 # Labo 6 y 7 - Laboratorio de Sistemas Dinamicos
 Vamos mantener un repositorio con material que resulte de utilidad para el avnace del la cursada de labo.
+
+![Circuito](https://github.com/gon-uri/Labo6y7_2019_LSD/blob/master/Foto/circuit.jpg)
 
 ### Sobre Eagle
 Para realizar los impresos (las placas electronicas) vamos a usar el programa Eagle. Es un programa profesional muy usado, con un montón de material para aprender a usarlo en internet. Nosotros lo vamos a usar para pasar de un esquematico (un dibujo donde determinamos que tiene que ir conectado con que) a un impreso (un disposicion fisica de los ocmponentes y las pistas). Pero el programa tiene otras funcionalidades, como la de simular circuitos electrónicos.
