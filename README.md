@@ -14,7 +14,7 @@ Para realizar los impresos (las placas electronicas) vamos a usar el programa Ea
 ### Sobre como hacer las placas
 Los impresos que realicemos con Eagle los vamos a tener que pasar a una placa. Ya vamos a hacer las priemras placas juntos, pero si quieren ir leyendo de como se hace, les dejo algunos links:
 
-* [Pagina oficial de Eagle](https://www.autodesk.com/products/eagle/overview) : Acápueden descargarse el programa. Existe una versión paga para realizar circuitos de mas de cierto tamaño, nostros con la version gratuita vamos a estar bien.
+* [Tutorial de ](https://www.befaco.org/es/impresion-de-pcbs-tutorial/) : Acápueden descargarse el programa. Existe una versión paga para realizar circuitos de mas de cierto tamaño, nostros con la version gratuita vamos a estar bien.
 * [Como instalar Eagle y generalidades del programa](https://learn.sparkfun.com/tutorials/how-to-install-and-setup-eagle) : Tutorial que explica como bajar el programa y algunas cosas generales de como está estructurado. No hace falta que bajen la libreria de Sparkfun (esta página que esta muy buena), así que pueden saltear la seccion "Using the SparkFun Libraries".
 
 ### Sobre Git y Github (Solo si les da curiosidad)
