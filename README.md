@@ -20,6 +20,6 @@ Los impresos que realicemos con Eagle los vamos a tener que pasar a una placa. Y
 
 ### Sobre electrónica
 El libro recomendado para leer los temas es el "MODERN INSTRUMENTATION
-FOR SCIENTISTS AND ENGINEERS"de James Blackburn. Lo pueden bajar de el repositorio
+FOR SCIENTISTS AND ENGINEERS"de James Blackburn. Lo pueden bajar desde el repositorio:
 
 * [Libro para bajar](https://github.com/gon-uri/Labo6y7_2019_LSD/blob/master/Foto)
