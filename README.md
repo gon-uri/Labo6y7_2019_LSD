@@ -14,11 +14,11 @@ Para realizar los impresos (las placas electronicas) vamos a usar el programa Ea
 ### Sobre como hacer las placas
 Los impresos que realicemos con Eagle los vamos a tener que pasar a una placa. Ya vamos a hacer las priemras placas juntos, pero si quieren ir leyendo de como se hace, les dejo algunos links:
 
-* [Tutorial de ](https://www.befaco.org/es/impresion-de-pcbs-tutorial/) : Acápueden descargarse el programa. Existe una versión paga para realizar circuitos de mas de cierto tamaño, nostros con la version gratuita vamos a estar bien.
-* [Como instalar Eagle y generalidades del programa](https://learn.sparkfun.com/tutorials/how-to-install-and-setup-eagle) : Tutorial que explica como bajar el programa y algunas cosas generales de como está estructurado. No hace falta que bajen la libreria de Sparkfun (esta página que esta muy buena), así que pueden saltear la seccion "Using the SparkFun Libraries".
+* [Tutorial de fabricacion de PCBs](https://www.befaco.org/es/impresion-de-pcbs-tutorial/) : Explica como pasar el diseño que hacemos en Eagle a una placa física.
+
 
 ### Sobre Git y Github (Solo si les da curiosidad)
-Esta página es en realidad un repositorio de "github", si les da curiosidad saber que es, pueden chusmear estos recursos.
+Esta página es en realidad un repositorio git hosteado en "github", si les da curiosidad saber que es, pueden chusmear estos recursos.
 **Git** es un sistema de control de versiones (VCS) muy utilizado, que permite ordenar y controlar el desarrollo de proyectos (en general proyectos grupales de programación). **Github** es una página que permite almacenar repositorios de **Git** (proyectos) en servidores, y acceder a ellos en forma remota a traves de internet.
 Les recomendamos algunos tutoriales de donde pueden aprender como funciona este sistema (hay *mucho* material en la web, pueden usar el que gusten):
 
@@ -28,9 +28,3 @@ Les recomendamos algunos tutoriales de donde pueden aprender como funciona este 
 * [Usando Github](https://guides.github.com/activities/hello-world/) : Guía de como crear un repositorio (via página de github).
 * [Set Up Git](https://help.github.com/articles/set-up-git/) : Usar github desde la linea de comando.
 * [Machete comandos de Git](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf), [Machete 2](https://gist.github.com/davfre/8313299) y [Machete interactivo](http://ndpsoftware.com/git-cheatsheet.html#loc=stash;)
-
-### Sobre NetworkX
-Es el paquete para trabajar con redes mas usado en **Python**. Existen otros buenos paquetes disponibles, como por ejemplo [igraph](http://igraph.org/python/), pero vamos a usar este ya que es el que está mejor atendido y tiene mayor cantidad de recursos disponibles en la web. Su fuerte no es la vizualización, pero tiene todas las funciones básicas que vamos a precisar para vizualizar. Les dejamos una serie de tutoriales apra que se vayan familiarizando con la libreria:
-
-* [TUTORIAL PRINCIPAL: Python from Luke to Yoda](https://github.com/gon-uri/Redes_2018/blob/master/Python%20from%20Luke%20to%20Yoda.ipynb) : Fue creado espacialemnte para este curso. Es el **tutorial más importante** ya que cubre aspectos básicos tanto de **Python** como de **NetworkX**.
-* [Documentación](https://networkx.github.io/documentation/latest/tutorial.html): Es el tutorial de la documentación oficial de la libreria.
