@@ -7,7 +7,7 @@ Vamos mantener un repositorio con material que resulte de utilidad para la cursa
 Para realizar los impresos (las placas electronicas) vamos a usar el programa Eagle. Es un programa profesional muy usado, con un montón de material para aprender a usarlo en internet. Nosotros lo vamos a usar para pasar de un esquematico (un dibujo donde determinamos que tiene que ir conectado con que) a un impreso (un disposicion fisica de los ocmponentes y las pistas). Pero el programa tiene otras funcionalidades, como la de simular circuitos electrónicos.
 
 * [Pagina oficial de Eagle](https://www.autodesk.com/products/eagle/overview) : Acápueden descargarse el programa. Existe una versión paga para realizar circuitos de mas de cierto tamaño, nostros con la version gratuita vamos a estar bien.
-* [Como instalar Eagle y generalidades del programa](https://learn.sparkfun.com/tutorials/how-to-install-and-setup-eagle) : Acá les 
+* [Como instalar Eagle y generalidades del programa](https://learn.sparkfun.com/tutorials/how-to-install-and-setup-eagle) : Tutorial que explica como bajar el programa y algunas cosas generales de como está estructurado. No hace falta que bajen la libreria de Sparkfun (esta página que esta muy buena), así que pueden saltear la seccion "Using the SparkFun Libraries".
 * [Tutorial sobre creación de Esquemáticos](https://learn.sparkfun.com/tutorials/using-eagle-schematic/all) : Tutorial escrito sobre los fundamentos de como crear un Schematic en Eagle.
 * [Tutorial sobre creación de PCBs](https://learn.sparkfun.com/tutorials/using-eagle-board-layout/all) : Tutorial escrito y en video sobre los fundamentos de como pasar de un esquemático a una placa.
 
